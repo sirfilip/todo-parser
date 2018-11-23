@@ -1,0 +1,3 @@
+TODO: Write the program
+DONE: Get an idea for the program
+TODO: Read about lexical parsing
